@@ -1,7 +1,8 @@
 # NLP_END_Program
 
-**GPT3 or the END of NLP as we know it!</b>
- In this course I have learned about Deep NLP beyond RNNs/LSTMs from scratch and learn why everything until GPT3 is absolete now. **
+**GPT3 or the END of NLP as we know it!**
+
+**In this course I have learned about Deep NLP beyond RNNs/LSTMs from scratch and learn why everything until GPT3 is absolete now. **
 
 1. Background and Basics of Modern NLP
 2. Embeddings & Dimensionality
