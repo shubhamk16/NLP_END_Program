@@ -2,7 +2,7 @@
 
 1. Write a function using only list filter lambda that can tell whether a number is a Fibonacci number or not. You can use a pre-calculated list/dict to store fab numbers till 10000 PTS:100
 
-2 Using list comprehension (and zip/lambda/etc if required) write five different expressions that: PTS:100
+2. Using list comprehension (and zip/lambda/etc if required) write five different expressions that: PTS:100
 * add 2 iterables a and b such that a is even and b is odd
 * strips every vowel from a string provided (tsai>>t s)
 * acts like a ReLU function for a 1D array
