@@ -1,4 +1,4 @@
-# Session 3 - Advanced Python for General Computing & NLP
+## Session 3 - Advanced Python for General Computing & NLP
 
 **Questions for the asignments**
 
